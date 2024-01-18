@@ -1,6 +1,6 @@
-## Pro-Trilogy
+## pro-trilogy
 
-general custom for pro
+pro
 
 #### License
 

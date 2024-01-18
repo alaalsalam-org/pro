@@ -9,9 +9,9 @@ from pro import __version__ as version
 setup(
 	name="pro",
 	version=version,
-	description="general custom for pro",
-	author="Trilogy",
-	author_email="E.azab#trilogy.com.sa",
+	description="pro",
+	author="NSFSS.com",
+	author_email="Ezzat.orc@gmail.com",
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
